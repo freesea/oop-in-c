@@ -1,4 +1,4 @@
-//Listing 2 Definition of the Shape “class” in C (file shape.c)
+/* Listing 2 Definition of the Shape class in C (file shape.c) */
 
 #include "shape.h"/* Shape class interface */
 
